@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+*.log
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js (blog-frontend)
+blog-frontend/.next/
+blog-frontend/out/
+
+# Nest.js (blog-backend)
+blog-backend/dist/
